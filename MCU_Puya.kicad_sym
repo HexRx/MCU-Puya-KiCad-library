@@ -527,6 +527,15 @@
 				(hide yes)
 			)
 		)
+		(property "ki_fp_filters" "QFN*1EP*3x3mm*P0.4mm*EP1.65x1.65mm*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(symbol "PY32F030F2xUx_0_1"
 			(rectangle
 				(start -13.97 15.24)
